@@ -1,4 +1,4 @@
-version: '3'
+#version: '3' 'version' attribute is going to be absolute in future, therefore, I have commited it. I will not imopact the execution of the docker-compose 
 services:
   frontend:
     build:
